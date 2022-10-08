@@ -1,0 +1,19 @@
+Developer Tools: console
+
+Commands
+-------
+1) clear()
+
+JS data types
+-------------
+1) Numbers can be used (even modulo operator can be used)
+2) String in ""
+3) NaN -> not a num
+4) undefined : when a value is not assigned to a variable
+
+true+true in console gives 2
+
+variable name can start from _ or $ or letters but not number
+
+(shift+enter)
+prompt() ->default data type is string. To convert explicitly Number(string) : used for getting values
